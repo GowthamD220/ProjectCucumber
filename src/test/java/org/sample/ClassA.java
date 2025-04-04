@@ -2,15 +2,15 @@ package org.sample;
 
 public class ClassA {
 
-	private void method1() {
+	private void wwe() {
 		System.out.println("Method 1");
 	}
 	
-	private void method2() {
+	private void aew() {
 		System.out.println("Method 2");
 
 	}
-	private void method3() {
+	private void tna() {
 		System.out.println("Method 3");
 
 	}
